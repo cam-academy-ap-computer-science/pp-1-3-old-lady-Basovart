@@ -1,4 +1,15 @@
-
+/***
+ * Grading comments:
+ *  Very good work.  You used methods to reduce duplication.
+ *  Compiles/runs: 15/15
+ *  Desired output: 6/6
+ *  Consistency: 2/2
+ *  Efficiency:  1/2 - You could have 'nested' methods to
+ *   be more efficient.  You could have also had a method containing
+ *   System.out.print("There was an old lady that swallowed a");
+ *   followed by 'fly', 'spider'.. etc.
+ * Overall very good effort 24/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
